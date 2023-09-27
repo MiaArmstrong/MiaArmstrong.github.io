@@ -1812,7 +1812,7 @@ input, select, textarea {
 		}
 
 			.image.centered img {
-				margin: 0 auto;
+				margin: 4em auto;
 				width: auto;
 			}
 
